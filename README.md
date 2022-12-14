@@ -1,7 +1,4 @@
 <h1> My Github Profile  with SASS  </h1></br>
-
-<h3> Screen </h3> </br>
-
  ![](picture.png) </br>
 
 <h3> it can continue </h3> </br>
